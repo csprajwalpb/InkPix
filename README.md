@@ -87,3 +87,15 @@ Student @ Atria Institute of Technology, Bangalore<br><br>
 [GitHub](https://github.com/csprajwalpb) | [LinkedIn](https://www.linkedin.com/in/prajwalpb/)
 <br><br>
 <b>Snapshots</b><br>
+![Screenshot (261)](https://github.com/user-attachments/assets/94f97024-e868-4b49-b645-01591ef7c0c6)
+![Screenshot (262)](https://github.com/user-attachments/assets/1f7fe0e8-09f7-4bb0-b201-c44f0e4333f4)
+![Screenshot (263)](https://github.com/user-attachments/assets/858cdd5d-89cd-46a6-84b7-3dcb1fc52d61)
+![Screenshot (264)](https://github.com/user-attachments/assets/1ee61fdc-11aa-4f29-83ae-f994bfdf6b54)
+![Screenshot (265)](https://github.com/user-attachments/assets/ad1e3d6b-1607-4555-905e-fe43d1d85cb1)
+
+
+
+
+
+
+
