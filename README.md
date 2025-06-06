@@ -43,29 +43,35 @@ This platform provides an easy and secure way for users to convert text prompts 
 
    ```bash
    git clone https://github.com/yourusername/your-repo.git
-   cd your-repo<br>
-Install backend dependencies:
-cd backend
-npm install<br>
-Install frontend dependencies:<br>
-cd ../frontend
-npm install<br>
-Create a .env file in the backend folder with:<br>
+   cd your-repo
+
+2. Install backend dependencies:
+   ```bash
+   cd backend
+   npm install
+
+3. Install frontend dependencies:<br>
+   ```bash
+   cd ../frontend
+   npm install
+3. Create a .env file in the backend folder with:<br>
 PORT=4000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 RAZORPAY_KEY_ID=your_razorpay_key_id
 RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 CURRENCY=INR<br>
-2. Running the app<br>
-Start backend server:<br>
-cd backend
-npm run server<br>
-Start frontend app:<br>
-cd frontend
-npm run dev
-<br><br>
-###Usage
+4. Running the app<br>
+a. Start backend server:<br>
+   ```bash
+   cd backend
+   npm run server
+b. Start frontend app:<br>
+   ```bash
+   cd frontend
+   npm run dev
+
+4. ##Usage
 Register or login to your account
 
 Purchase credits using the plans available
