@@ -13,14 +13,14 @@ This platform provides an easy and secure way for users to convert text prompts 
 - Purchase credits using Razorpay payment gateway
 - Generate images from text prompts using AI (or any image generation API)
 - Credit balance management
-- Responsive and animated UI with React and Framer Motion
+- Mobile Responsive and animated UI with React and Framer Motion
 - Transaction history tracking
 
 ---
 
 ## Tech Stack
 
-- Frontend: React, Framer Motion, Axios
+- Frontend: React, Tailwind, Framer Motion, Axios
 - Backend: Node.js, Express, MongoDB, Mongoose
 - Payment Gateway: Razorpay
 - Authentication: JWT
