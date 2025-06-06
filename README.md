@@ -56,10 +56,10 @@ This platform provides an easy and secure way for users to convert text prompts 
    npm install
 3. Create a .env file in the backend folder with:<br>
 PORT=4000
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-RAZORPAY_KEY_ID=your_razorpay_key_id
-RAZORPAY_KEY_SECRET=your_razorpay_key_secret
+MONGODB_URI=your_mongodb_connection_string<br>
+JWT_SECRET=your_jwt_secret<br>
+RAZORPAY_KEY_ID=your_razorpay_key_id<br>
+RAZORPAY_KEY_SECRET=your_razorpay_key_secret<br>
 CURRENCY=INR<br>
 4. Running the app<br>
 a. Start backend server:<br>
@@ -70,8 +70,8 @@ b. Start frontend app:<br>
    ```bash
    cd frontend
    npm run dev
-
-4. ##Usage
+```
+💡 Usage
 Register or login to your account
 
 Purchase credits using the plans available
