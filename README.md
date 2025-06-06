@@ -79,7 +79,7 @@ Purchase credits using the plans available<br>
 Enter a text prompt to generate images using your credits<br>
 
 View your credit balance and transaction history<br><br>
-###👤 Author<br>
+👤 Author<br>
 Prajwal P B<br><br>
 
 Student @ Atria Institute of Technology, Bangalore<br><br>
