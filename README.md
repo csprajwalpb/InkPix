@@ -72,17 +72,17 @@ b. Start frontend app:<br>
    npm run dev
 ```
 💡 Usage
-Register or login to your account
+Register or login to your account<br>
 
-Purchase credits using the plans available
+Purchase credits using the plans available<br>
 
-Enter a text prompt to generate images using your credits
+Enter a text prompt to generate images using your credits<br>
 
-View your credit balance and transaction history<br>
-###👤 Author
-Prajwal P B
+View your credit balance and transaction history<br><br>
+###👤 Author<br>
+Prajwal P B<br><br>
 
-Student @ Atria Institute of Technology, Bangalore
+Student @ Atria Institute of Technology, Bangalore<br><br>
 
 [GitHub](https://github.com/csprajwalpb) | [LinkedIn](https://www.linkedin.com/in/prajwalpb/)
 <br>
