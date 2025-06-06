@@ -12,8 +12,9 @@ import sample_img_3 from './sample_img_3.png'
 import sample_img_4 from './sample_img_4.png'
 import sample_img_5 from './sample_img_5.png'
 import sample_img_6 from './sample_img_6.png'
-import profile_img_1 from './profile_img_1.png'
+import profile_img_1 from './profile_img_1.jpg'
 import profile_img_2 from './profile_img_2.png'
+import profile_img_3 from './profile_img_3.png'
 import step_icon_1 from './step_icon_1.svg'
 import step_icon_2 from './step_icon_2.svg'
 import step_icon_3 from './step_icon_3.svg'
@@ -70,24 +71,24 @@ export const stepsData = [
 export const testimonialsData = [
     {
         image:profile_img_1,
-        name:'Donald Jackman',
-        role:'Graphic Designer',
+        name:'Varun Bharadwaj',
+        role:'Digital Creator',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`As a content creator, InkPix has been a total game changer. I can turn any idea into a visual instantly — no need to wait or hire designers. It's fast, accurate, and the quality is top-notch!`
     },
     {
         image:profile_img_2,
         name:'Richard Nelson',
-        role:'Content Creator',
+        role:'Startup Founder',
         stars:4,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`We use InkPix for generating product mockups and marketing visuals — it's saving us hours each week. The credit system keeps things simple and scalable for our small team`
     },
     {
-        image:profile_img_1,
-        name:'Donald Jackman',
-        role:' Graphic Designer',
+        image:profile_img_3,
+        name:'Prajwal P B',
+        role:'Creator & Developer',
         stars:5,
-        text:`I've been using bg.removal for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.`
+        text:`InkPix has completely transformed how I create visual content. Generating stunning images from just a few words is mind-blowing — and with the credit-based model, it’s super easy to manage usage. It’s like having a designer in your pocket!`
     },
 ]
 
