@@ -86,4 +86,4 @@ Student @ Atria Institute of Technology, Bangalore<br><br>
 
 [GitHub](https://github.com/csprajwalpb) | [LinkedIn](https://www.linkedin.com/in/prajwalpb/)
 <br><br>
-###Snapshots<br>
+<b>Snapshots</b><br>
